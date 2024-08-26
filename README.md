@@ -16,7 +16,7 @@ Este projeto é uma página web simples que apresenta meu currículo. Desenvolvi
 
 * Clone este repositório com o comando:
 ```bash
-git clone <https://github.com/tainaestefani/task-manager.git>
+git clone <https://github.com/tainaestefani/curriculo-html.git>
 ```
 * Baixe a IDE [Visual Studio Code](https://code.visualstudio.com/download) ou outra que suporte execução de código HTML.
 * Baixe a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
