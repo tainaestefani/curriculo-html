@@ -31,8 +31,8 @@ git clone <https://github.com/tainaestefani/curriculo-html.git>
 ## 📱 Demonstração
 
 <div align="center">
-  <img src="screenshot-1.PNG" height="100px" alt="Demonstração do Currículo">
-  <img src="screenshot-2.PNG" height="100px" alt="Demonstração do Currículo">
+  <img src="screenshot-1.PNG" height="250px" alt="Demonstração do Currículo">
+  <img src="screenshot-2.PNG" height="250px" alt="Demonstração do Currículo">
 </div>
 
 ## 🧑‍💻 Autor
