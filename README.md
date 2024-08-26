@@ -28,6 +28,13 @@ git clone <https://github.com/tainaestefani/curriculo-html.git>
 - `CSS`.
 - `Visual Studio Code`.
 
+## 📱 Demonstração
+
+<div align="center">
+  <img src="screenshot-1.PNG" height="350px" alt="Demonstração do Currículo">
+  <img src="screenshot-2.PNG" height="350px" alt="Demonstração do Currículo">
+</div>
+
 ## 🧑‍💻 Autor
 
 [<img alt="Profile Pic" src="https://avatars.githubusercontent.com/u/154456749?v=4" width="115" style="border-radius:50%"><br><sub>Tainá Estefani Martins</sub>](https://github.com/tainaestefani)
