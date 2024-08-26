@@ -1,3 +1,3 @@
 # Currículo HTML
 
-🚧 README.md em construção 🚧
+🚧 README em construção 🚧
