@@ -2,8 +2,8 @@
 Este projeto é uma página web simples que apresenta meu currículo. Desenvolvido utilizando HTML e CSS, ele destaca minhas habilidades, experiências e educação de forma clara e organizada. Além de ser uma maneira prática de compartilhar meu currículo, este projeto é uma maneira de demonstrar minhas habilidades em desenvolvimento web.
 
 ## ⚙️ Tecnologias Utilizadas
-* HTML.
-* CSS.
+* HTML5.
+* CSS3.
 * Visual Studio Code.
 
 ## 🔨 Funcionalidades
