@@ -11,7 +11,7 @@ Este projeto é uma página web simples que apresenta meu currículo. Desenvolvi
 - **Estrutura Simples e Limpa:** A estrutura do código HTML é clara e fácil de entender, seguindo boas práticas de desenvolvimento.
 - **Estilo Personalizado com CSS:** Usei CSS para personalizar a aparência do currículo, aplicando estilos que refletem minha personalidade e profissionalismo.
 
-## 🔧 Abrir e Executar o Projeto
+## 🔧 Como Executar o Projeto
 * Clone este repositório com o comando:
 ```
 git clone <https://github.com/tainaestefani/profile-card.git>
