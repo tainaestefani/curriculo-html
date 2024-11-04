@@ -1,42 +1,30 @@
-<h1 align="center">💼 Currículo HTML</h1>
-
-## Descrição do Projeto
-
+# 💼 Currículo em HTML
 Este projeto é uma página web simples que apresenta meu currículo. Desenvolvido utilizando HTML e CSS, ele destaca minhas habilidades, experiências e educação de forma clara e organizada. Além de ser uma maneira prática de compartilhar meu currículo, este projeto é uma maneira de demonstrar minhas habilidades em desenvolvimento web.
 
-## 🔨 Funcionalidades
+## ⚙️ Tecnologias Utilizadas
+* HTML.
+* CSS.
+* Visual Studio Code.
 
-- `Design Responsivo:` A página é adaptável a diferentes tamanhos de tela, garantindo uma boa visualização em dispositivos móveis e desktops.
-  
-- `Estrutura Simples e Limpa:` A estrutura do código HTML é clara e fácil de entender, seguindo boas práticas de desenvolvimento.
-  
-- `Estilo Personalizado com CSS:` Usei CSS para personalizar a aparência do currículo, aplicando estilos que refletem minha personalidade e profissionalismo.
+## 🔨 Funcionalidades
+- **Design Responsivo:** A página é adaptável a diferentes tamanhos de tela, garantindo uma boa visualização em dispositivos móveis e desktops.
+- **Estrutura Simples e Limpa:** A estrutura do código HTML é clara e fácil de entender, seguindo boas práticas de desenvolvimento.
+- **Estilo Personalizado com CSS:** Usei CSS para personalizar a aparência do currículo, aplicando estilos que refletem minha personalidade e profissionalismo.
 
 ## 🔧 Abrir e Executar o Projeto
-
 * Clone este repositório com o comando:
-```bash
-git clone <https://github.com/tainaestefani/curriculo-html.git>
 ```
-* Baixe a IDE [Visual Studio Code](https://code.visualstudio.com/download) ou outra que suporte execução de código HTML.
-* Baixe a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-* Execute o programa clicando no botão "Go Live".
-
-## ⚙️ Tecnologias Utilizadas
-
-- `HTML`.
-- `CSS`.
-- `Visual Studio Code`.
+git clone <https://github.com/tainaestefani/profile-card.git>
+```
+* Abra em uma IDE de sua escolha e clique em "Run" / "Execute" / "Go Live" para executar.
 
 ## 📱 Demonstração
-
 <div align="center">
   <img src="screenshot-1.PNG" height="280px" alt="Demonstração do Currículo">
   <img src="screenshot-2.PNG" height="280px" alt="Demonstração do Currículo">
 </div>
 
 ## 🧑‍💻 Autor
-
 [<img alt="Profile Pic" src="profile-pic.png" width="115" style="border-radius:50%"><br><sub>Tainá Estefani Martins</sub>](https://github.com/tainaestefani)
 
 ## License
