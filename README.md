@@ -18,11 +18,8 @@ git clone <https://github.com/tainaestefani/profile-card.git>
 ```
 * Abra em uma IDE de sua escolha e clique em "Run" / "Execute" / "Go Live" para executar.
 
-## 📱 Demonstração
-<div align="center">
-  <img src="screenshot-1.PNG" height="280px" alt="Demonstração do Currículo">
-  <img src="screenshot-2.PNG" height="280px" alt="Demonstração do Currículo">
-</div>
+## 🚀 Acesse o Projeto
+Você pode visualizar o currículo clicando no seguinte link: https://tainaestefani.github.io/curriculo-html/
 
 ## 🧑‍💻 Autor
 [<img alt="Profile Pic" src="profile-pic.png" width="115" style="border-radius:50%"><br><sub>Tainá Estefani Martins</sub>](https://github.com/tainaestefani)
